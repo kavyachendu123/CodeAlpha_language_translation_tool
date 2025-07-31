@@ -13,9 +13,7 @@ It works in the terminal and uses Google Translate under the hood.
 - googletrans==4.0.0-rc1  
 
 ## **Install it using:**
-```bash
 pip install googletrans==4.0.0-r# CodeAlpha_language_translation_tool
-
 ## **How to Run**
 python translator.py
 Type the text, source language, and target language to get a translation.
