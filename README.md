@@ -15,8 +15,8 @@ It works in the terminal and uses Google Translate under the hood.
 ## **Install it using:**
 ```bash
 pip install googletrans==4.0.0-r# CodeAlpha_language_translation_tool
+
 ## **How to Run**
-```bash
 python translator.py
 Type the text, source language, and target language to get a translation.
 Type 'exit' to quit.
